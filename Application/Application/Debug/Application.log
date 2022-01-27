@@ -1,2 +1,2 @@
 ﻿  Application.cpp
-  Application.vcxproj -> C:\Users\b8036881\Documents\JenkinsTest\Application\Debug\Application.exe
+C:\Users\b8036881\Documents\JenkinsTest\Application\Application\Application.cpp(7): error C1075:  '{': no matching token found
